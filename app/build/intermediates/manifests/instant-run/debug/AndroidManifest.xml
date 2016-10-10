@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.simplesimon"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16" />
+
+    <application
+        name="main.App"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="main.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.admin.simplesimon.simon.SimonGame"
+            android:parentActivityName="com.example.admin.simplesimon.simon.SimonGameMode" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".simon.SimonGameMode" />
+        </activity>
+        <activity
+            android:name="com.example.admin.simplesimon.simon.SimonGameMode"
+            android:parentActivityName="main.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="main.MainActivity" />
+        </activity>
+        <activity android:name="com.example.admin.simplesimon.battleShip.BattleShipGame" />
+    </application>
+
+</manifest>

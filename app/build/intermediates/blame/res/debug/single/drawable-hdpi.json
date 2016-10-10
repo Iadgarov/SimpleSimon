@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right_arrow.png",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\restart_arrow.png",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-hdpi\\restart_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hit.png",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-hdpi\\hit.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ship.png",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-hdpi\\ship.png"
+    }
+]

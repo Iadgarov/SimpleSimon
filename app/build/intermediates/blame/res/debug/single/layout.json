@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simon_game.xml",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\layout\\activity_simon_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simon_game_mode.xml",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\layout\\activity_simon_game_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battle_ship_game.xml",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\layout\\activity_battle_ship_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

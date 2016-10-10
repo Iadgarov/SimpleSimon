@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2da1cda5d560d7730ad7cb388303a7684c012026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_91e2a5525c0969328511a0262fe28f816ec1a0fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_df92b04fb83d79035c01bc61f7fc45a128cf800b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4ce5773c88ff80e0c14b8a823f4c7aba82f5e395">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6e048f63286aae2f8a5f404a013d1f49d51eb23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_049c57a6237be715ff5160a081471ef825f0ad03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8d31a55ed44e3e916bcda433d235f67a8eb57ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_145e0557b9a57fe812efaa1446fcd6aebaf2be1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fe5775d582a7ecd20f40213d5dece1567e91531c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f64b2aab3fe50fe55af58cde5d05854439247090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c07df3c8a3f09f8892a69c66de9431f87e01746b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_985e7666c36979e75fd876e073596ac233e0cf2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f672c5609cc31d275a49a316faafaa0960a9c681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6f4965a47545a914b3facdf64915d5e840cd27ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f9c2234026b9c9ecb036dcbcfd4f95976987fdf">
+        <dex dex="C:\Users\David\workspace_Android\SimpleSimon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d39181d00e0338c6e9a84e3a6a6ed4c29b2b9b2b\classes.dex" />
+    </item>
+
+</items>
