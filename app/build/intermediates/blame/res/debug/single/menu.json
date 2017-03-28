@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

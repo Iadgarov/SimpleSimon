@@ -1,11 +1,31 @@
 [
     {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\restart_arrow.png",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\restart_arrow.png"
+    },
+    {
         "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ship.png",
         "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\ship.png"
     },
     {
         "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hit.png",
         "source": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\hit.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hit.png",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\hit.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_arrow.png",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ship.png",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\ship.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start.png",
+        "source": "C:\\Users\\David\\Desktop\\SimpleSimon\\app\\src\\main\\res\\drawable-xhdpi\\start.png"
     },
     {
         "merged": "C:\\Users\\David\\workspace_Android\\SimpleSimon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\restart_arrow.png",
